@@ -1,0 +1,13 @@
+{
+  "name": "token-hoster",
+  "version": "1.0.0",
+  "description": "> Account Hosting Service | Made by @~ Mr. Rexx .♡ 💸#6725",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
