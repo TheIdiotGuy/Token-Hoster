@@ -1,7 +1,7 @@
-import server from "express";
+const server = require("express");
 const _ = new server();
 const port = 3000;
-import "colors";
+require("colors");
 
 const keepAlive = async () => {
     _.get("/", async (req, res) => {
@@ -13,4 +13,4 @@ const keepAlive = async () => {
     })
 }
 
-export default keepAlive;
+module.exports = keepAlive;

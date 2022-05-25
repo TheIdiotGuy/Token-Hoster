@@ -1,6 +1,6 @@
-import Eris from "eris";
-import { readFileSync } from "fs";
-import keepAlive from "./keepAlive";
+const Eris = require("eris");
+const { readFileSync } = require("fs");
+const keepAlive = require("./keepAlive");
 
 let Account = [];
 
