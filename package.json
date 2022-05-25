@@ -9,5 +9,19 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheIdiotGuy/Token-Hoster/issues"
+  },
+  "homepage": "https://github.com/TheIdiotGuy/Token-Hoster#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheIdiotGuy/Token-Hoster.git"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "eris": "^0.16.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
 }
